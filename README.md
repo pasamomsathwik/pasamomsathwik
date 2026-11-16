@@ -1,46 +1,40 @@
 <div align="center">
 
 # Om Sathwik
-
-### B.Tech CSE Student · Beginner Developer · India 🇮🇳
-
-*Learning by building, one project at a time.*
+### B.Tech CSE Student | Web Developer | India 🇮🇳
 
 </div>
 
----
+I’m a Computer Science and Engineering student passionate about learning software development through real projects and practical problem-solving.
 
-## About
-
-I’m a Computer Science and Engineering student interested in software development and learning how ideas become useful products. I’m currently building my foundations through coursework, personal projects, and an internship with **Thiranex**.
-
+### About Me
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
-- 💻 Practicing web development with HTML, CSS, and JavaScript
-- 🌱 Focused on learning, problem-solving, and building consistently
-- 🇮🇳 Based in India
+- 💻 Interested in web development and programming
+- 🌱 Learning by building projects and improving my skills
+- 🇮🇳 Proud to be from India
+- 🔍 Focused on consistency, discipline, and growth
 
-## Projects
+### Projects
+- [THIRANEX Internship Project](https://github.com/pasamomsathwik/THIRANEX)
+- [Personal Portfolio](https://pasamomsathwik.github.io/THIRANEX/)
 
-### [Thiranex Internship Project](https://github.com/pasamomsathwik/THIRANEX)
-A place to document my internship learning and project work. The repository includes my portfolio work and will grow as I complete more projects.
+### Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-[View the live site](https://pasamomsathwik.github.io/THIRANEX/)
-
-### [Personal Portfolio](https://pasamomsathwik.github.io/Portfolio-Website/)
-A responsive portfolio website built with HTML, CSS, and JavaScript to introduce me and showcase my work.
-
-## Currently Learning
-
-- Strengthening my programming and computer science fundamentals
-- Building responsive websites and improving my JavaScript skills
-- Practicing Git, GitHub, and writing clear project documentation
+### Currently Learning
+- Front-end development
+- JavaScript and problem solving
+- Git and GitHub workflow
+- Building clean and useful projects
 
 ---
 
 <div align="center">
 
-*Curious, consistent, and always learning.*
-
-[GitHub profile](https://github.com/pasamomsathwik)
+"Learning by building, one project at a time."
 
 </div>
