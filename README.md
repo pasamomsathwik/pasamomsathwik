@@ -11,7 +11,6 @@ I’m a Computer Science and Engineering student passionate about learning softw
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 💻 Interested in web development and programming
 - 🌱 Learning by building projects and improving my skills
-- 🇮🇳 Proud to be from India
 - 🔍 Focused on consistency, discipline, and growth
 
 ### Projects
