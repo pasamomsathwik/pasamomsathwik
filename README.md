@@ -1,6 +1,6 @@
 <div align="center">
 
-# Om Sathwik
+# OM SATHWIK
 ### B.Tech CSE Student | Web Developer | India 🇮🇳
 
 </div>
