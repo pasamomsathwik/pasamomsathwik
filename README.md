@@ -1,7 +1,7 @@
 <div align="center">
 
 # OM SATHWIK
-### B.Tech CSE Student | Web Developer | India 🇮🇳
+### B.Tech CSE Student |Upcoming Web Developer | India 🇮🇳
 
 </div>
 
