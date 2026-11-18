@@ -1,7 +1,8 @@
 <div align="center">
 
-#PASAM OM SATHWIK
-### B.Tech CSE Student |Upcoming Web Developer | India
+# **PASAM OM SATHWIK**
+
+### **B.Tech CSE Student | Upcoming Web Developer | India**
 
 </div>
 
