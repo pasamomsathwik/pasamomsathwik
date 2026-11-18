@@ -1,7 +1,7 @@
 <div align="center">
 
-# OM SATHWIK
-### B.Tech CSE Student |Upcoming Web Developer | India 🇮🇳
+#PASAM OM SATHWIK
+### B.Tech CSE Student |Upcoming Web Developer | India
 
 </div>
 
@@ -14,7 +14,7 @@ I’m a Computer Science and Engineering student passionate about learning softw
 - 🔍 Focused on consistency, discipline, and growth
 
 ### Projects
-- [THIRANEX Internship Project](https://github.com/pasamomsathwik/THIRANEX)
+- [THIRANEX Internship ProjectS](https://github.com/pasamomsathwik/THIRANEX)
 
 
 ### Tech Stack
