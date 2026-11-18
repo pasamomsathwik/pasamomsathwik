@@ -15,7 +15,7 @@ I’m a Computer Science and Engineering student passionate about learning softw
 - 🔍 Focused on consistency, discipline, and growth
 
 ### Projects
-- [THIRANEX Internship ProjectS](https://github.com/pasamomsathwik/THIRANEX)
+- [THIRANEX Internship Projects](https://github.com/pasamomsathwik/THIRANEX)
 
 
 ### Tech Stack
